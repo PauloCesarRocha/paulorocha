@@ -7,13 +7,11 @@
     <h2>Receita Sanduiche de presunto</h2>
 
     <ul>
-	<li>2 Pães frescos</li>
-	<li>200gr de Presunto</l1>
-	<li>1 colher de chá de Ketchup</li>
-	<li>Maionese à gosto</li>
-	<li>Manteiga</li>
-
-    </ul>
+			<li>1 Pão Francês</li>
+			<li>2 fatias de Queijo Prato</li>
+			<li>2 fatias de Presunto</li>
+			<li>1 Colher de margarina</li>
+		</ul>
 
 	<ol>
 
