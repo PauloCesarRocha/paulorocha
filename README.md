@@ -8,11 +8,13 @@
     <h2>Receita Sanduiche de presunto</h2>
 
     <ul>
+	    
 	<li>2 Pães frescos</li>
 	<li>200gr de Presunto</l1>
 	<li>1 colher de chá de Ketchup</li>
 	<li>Maionese à gosto</li>
 	<li>Manteiga</li>
+	  
     </ul>
 <p>Pegue o pão <shadow>divida-o em dois</shadow> utilizando a faca,feito isto toste um pouco o pão em uma frigideira utilizando manteiga até que fique <strong>suculento</strong></p>
 <p>Espalhe bem o ketchup sobre o pão e em seguida coloque o presunto e a maionese</p>
