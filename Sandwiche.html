@@ -4,7 +4,7 @@
 		<title>Receita Sanduiche Queijo e Presunto</title>
    		<meta charset="utf-8">
 	</head>
-  <body>
+ 	 <body>
 	   	<h1>Receita Sanduiche de presunto</h1>
 
      <ul>
@@ -20,5 +20,6 @@
 <p>Espalhe bem o ketchup sobre o pão e em seguida coloque o presunto e a maionese</p>
 <p>Por fim cubra o pão com a outra metade, pronto já é possível saborear o seu Sanduíche de presunto, <i>isso isso isso</i>!</p>
 <img src="https://pbs.twimg.com/media/BxN6WAfIUAEjAkb.jpg" width="400">
-</body>
+	</body>
+
 </html>
