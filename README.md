@@ -2,7 +2,6 @@
 <html>
 
   <head>
-    <title>Sanduiche de presunto</title>
     <meta charset-"utf-8">
   </head>
   <body>
