@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
 	<head>
-    <meta charset="utf-8">
+		<title>Receita Sanduiche Queijo e Presunto</title>
+   		<meta charset="utf-8">
 	</head>
   <body>
-    <h2>Receita Sanduiche de presunto</h2>
+	   	<h1>Receita Sanduiche de presunto</h1>
 
      <ul>
-	<li>2 Pães frescos</li>
-	<li>200gr de Presunto</l1>
-	<li>1 colher de chá de Ketchup</li>
-	<li>Maionese à gosto</li>
-	<li>Manteiga</li>
+		<li>2 Pães frescos</li>
+		<li>200gr de Presunto</l1>
+		<li>1 colher de chá de Ketchup</li>
+		<li>Maionese à gosto</li>
+		<li>Manteiga</li>
 
     </ul>
 
