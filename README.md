@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Receita Sanduiche Queijo e Presunto</title>
+		
    		<meta charset="utf-8">
 	</head>
  	 <body>
